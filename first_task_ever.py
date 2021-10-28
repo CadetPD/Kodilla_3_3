@@ -1,3 +1,7 @@
+"""
+Na początku był chaos...
+"""
+
 intro = "LISTA ZAKUPÓW"
 
 weight1 = "1 kg sera"
