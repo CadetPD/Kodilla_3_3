@@ -49,15 +49,3 @@ print(cheese_price6)
 print(cheese_price7)
 print(cheese_price8)
 print('SMACZNEGO!')
-
-""""
-Witam,
-eksperymentowałem z kilkoma formatowaniami żeby nie robić trzech różnych list. Mam nadzieję, że to nie jest jakiś wielki grzech ;)
-
-Próbowałem użyć formatera %d do zmiennej 'price' ale zwraca tylko liczby całkowite. Dla formatera %s i w linijkach napisanych wg P3.6 (jak w Module) i z użyciem funkcji z yt zwraca tylko pierwsze zero po przecinku lub ostatnią cyfrę poprzedzającą zero. Skoro format ceny miał być polski to dopisałem im te zera ale mam w związku z tym mam pytanie: w jaki sposób można zwrócić całą wartość dla wszystkich zmiennych 'price', tj. do dwóch miejsc po przecinku bez sztukowania?
-
-Z góry dzięki za odpowiedź i czekam na krytyczne uwagi :)
-
-Pozdrawiam serdecznie,
-PD
-"""
