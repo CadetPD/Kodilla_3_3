@@ -1,5 +1,6 @@
 """
 Na początku był chaos...
+a potem zaczęła się nauka! :D
 """
 
 intro = "LISTA ZAKUPÓW"
